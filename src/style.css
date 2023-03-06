@@ -13,9 +13,9 @@
     --visited-link-color: hsl(100deg, 60%, 70%);
   }
   
-  * { background: #0f01 !important; outline: #0f08 solid 1px; }
+  /* * { background: #0f01 !important; outline: #0f08 solid 1px; }
   body, header, footer { background: #000 !important; }
-  :root { --purp: transparent }
+  :root { --purp: transparent } */
   
   body {
     display: flex;
